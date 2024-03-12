@@ -1,3 +1,4 @@
+Este proyecto fue ejecutado con React Js. Para ejecutarlo debemos descargar todo en "Download ZIP", luego al abrirlo desde Visual Studio Code importando la carpeta, tenemos que ir a la consola y ejecutarlo desde ahi, sino no nos va a funcionar. En la parte de consola escribimos "npm start", y ahi nos va a ejecutar para abrir el navegador con los ejemplos de testimonio.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
